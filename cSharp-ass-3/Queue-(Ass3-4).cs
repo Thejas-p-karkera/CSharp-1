@@ -78,3 +78,107 @@ namespace cSharp_ass_3
         }
     }
 }
+
+// ----------------------------------------------------------------------------------
+
+using System;
+
+namespace CustomQueueExample
+{
+    class Queue
+    {
+        private int[] queueArray; // Array to store queue elements
+        private int front; // Points to the front of the queue
+        private int rear; // Points to the rear of the queue
+        private int size; // Maximum size of the queue
+
+        public Queue(int size)
+        {
+            this.size = size;
+            queueArray = new int[size];
+            front = -1; // Queue is initially empty
+            rear = -1;
+        }
+
+        public void Enqueue(int element)
+        {
+            if (rear == size - 1)
+            {
+                Console.WriteLine("Queue Overflow! Cannot add more elements.");
+                return;
+            }
+            if (front == -1) front = 0; // Set front if it's the first element
+            queueArray[++rear] = element;
+            Console.WriteLine($"Added {element} to the queue.");
+        }
+
+        public void Dequeue()
+        {
+            if (front == -1 || front > rear)
+            {
+                Console.WriteLine("Queue Underflow! No elements to delete.");
+                return;
+            }
+            Console.WriteLine($"Deleted {queueArray[front]} from the queue.");
+            front++; // Move front forward
+        }
+
+        public void Display()
+        {
+            if (front == -1 || front > rear)
+            {
+                Console.WriteLine("Queue is empty.");
+                return;
+            }
+
+            Console.WriteLine("Queue elements are:");
+            for (int i = front; i <= rear; i++)
+            {
+                Console.Write(queueArray[i] + " <- ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            Console.Write("Enter the size of the queue: ");
+            int size = int.Parse(Console.ReadLine());
+
+            Queue queue = new Queue(size);
+
+            while (true)
+            {
+                Console.WriteLine("\n1. Add (Enqueue)");
+                Console.WriteLine("2. Delete (Dequeue)");
+                Console.WriteLine("3. Display");
+                Console.WriteLine("4. Exit");
+                Console.Write("Enter your choice: ");
+                int choice = int.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        Console.Write("Enter element to add: ");
+                        int ele = int.Parse(Console.ReadLine());
+                        queue.Enqueue(ele);
+                        break;
+                    case 2:
+                        queue.Dequeue();
+                        break;
+                    case 3:
+                        queue.Display();
+                        break;
+                    case 4:
+                        return;
+                    default:
+                        Console.WriteLine("Enter a valid choice.");
+                        break;
+                }
+            }
+        }
+    }
+}
+
