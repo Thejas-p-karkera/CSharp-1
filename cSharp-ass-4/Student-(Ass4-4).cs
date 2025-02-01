@@ -1,4 +1,4 @@
-﻿//4)	i) Create class Student which has private fields rollno, name, class, m1, m2, m3, grade, named
+//4)	i) Create class Student which has private fields rollno, name, class, m1, m2, m3, grade, named
 //        properties to all the fields(for grade have read only property) and a method to calculate the grade
 //        (if average is >=35 and <60 ‘C’, >=60 and <80 ‘B’, >80 ‘A’ , else ‘F’).  
 
@@ -62,7 +62,11 @@ namespace C_programs
         {
             double average = (marks1 + marks2 + marks3) / 3;
 
-            if (average >= 35 && average < 60)
+            if (marks1 < 35 || marks2 < 35 || marks3 < 35 || average < 35) 
+            {
+                grade = "F";
+            }
+            else if (average >= 35 && average < 60)
             {
                 grade = "C";
             }
@@ -70,14 +74,11 @@ namespace C_programs
             {
                 grade = "B";
             }
-            else if (average >= 80)
+            else
             {
                 grade = "A";
             }
-            else
-            {
-                grade = "F";
-            }
+            
         }
     }
 
@@ -94,7 +95,7 @@ namespace C_programs
             {
                 students[i] = new Student();
 
-                Console.WriteLine("\nEnter details for Student " + (i+1) + " : ");
+                Console.WriteLine("\nEnter details for Student " + (i + 1) + " : ");
                 Console.Write("Roll No: ");
                 students[i].RollNo = int.Parse(Console.ReadLine());
 
