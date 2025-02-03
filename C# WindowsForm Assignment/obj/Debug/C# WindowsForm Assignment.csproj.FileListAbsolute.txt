@@ -1,0 +1,10 @@
+C:\C# WindowsForm Assignment\bin\Debug\C# WindowsForm Assignment.exe.config
+C:\C# WindowsForm Assignment\bin\Debug\C# WindowsForm Assignment.exe
+C:\C# WindowsForm Assignment\bin\Debug\C# WindowsForm Assignment.pdb
+C:\C# WindowsForm Assignment\obj\Debug\C# WindowsForm Assignment.csproj.AssemblyReference.cache
+C:\C# WindowsForm Assignment\obj\Debug\C__WindowsForm_Assignment.Properties.Resources.resources
+C:\C# WindowsForm Assignment\obj\Debug\C# WindowsForm Assignment.csproj.GenerateResource.cache
+C:\C# WindowsForm Assignment\obj\Debug\C# WindowsForm Assignment.csproj.CoreCompileInputs.cache
+C:\C# WindowsForm Assignment\obj\Debug\C# WindowsForm Assignment.exe
+C:\C# WindowsForm Assignment\obj\Debug\C# WindowsForm Assignment.pdb
+C:\C# WindowsForm Assignment\obj\Debug\C__WindowsForm_Assignment.Form2.resources
