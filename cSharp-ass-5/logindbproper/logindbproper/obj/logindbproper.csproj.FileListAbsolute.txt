@@ -1,0 +1,27 @@
+E:\krmsc\logindbproper\logindbproper\bin\Debug\logindbproper.exe
+E:\krmsc\logindbproper\logindbproper\obj\Debug\ResolveAssemblyReference.cache
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.Form1.resources
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.Form2.resources
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.Properties.Resources.resources
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.csproj.GenerateResource.Cache
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.exe
+E:\krmsc\logindbproper\logindbproper\obj\Debug\logindbproper.pdb
+E:\krmsc\logindbproper\logindbproper\bin\Debug\logindbproper.pdb
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.exe
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.pdb
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\bin\Debug\logindbproper.exe
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\bin\Debug\logindbproper.pdb
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.Form1.resources
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.Form2.resources
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.Properties.Resources.resources
+\\192.168.2.246\Share Drive\ASSIGNMENT_5\logindbproper\logindbproper\obj\Debug\logindbproper.csproj.GenerateResource.Cache
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.exe
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.pdb
+C:\Thejas\logindbproper\logindbproper\bin\Debug\logindbproper.exe
+C:\Thejas\logindbproper\logindbproper\bin\Debug\logindbproper.pdb
+C:\Thejas\logindbproper\logindbproper\obj\Debug\ResolveAssemblyReference.cache
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.Form1.resources
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.Form2.resources
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.Properties.Resources.resources
+C:\Thejas\logindbproper\logindbproper\obj\Debug\logindbproper.csproj.GenerateResource.Cache
