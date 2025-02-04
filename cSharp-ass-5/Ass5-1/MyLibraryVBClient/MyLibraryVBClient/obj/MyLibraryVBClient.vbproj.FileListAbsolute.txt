@@ -1,0 +1,9 @@
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\bin\Debug\MyLibraryVBClient.exe
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\bin\Debug\MyLibraryVBClient.pdb
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\bin\Debug\MyLibraryVBClient.xml
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\MyLibraryVBClient.Resources.resources
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\MyLibraryVBClient.vbproj.GenerateResource.Cache
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\MyLibraryVBClient.exe
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\MyLibraryVBClient.xml
+C:\Thejas\MyLibraryVBClient\MyLibraryVBClient\obj\Debug\MyLibraryVBClient.pdb

@@ -1,0 +1,5 @@
+C:\Thejas\MyClassLibrary\MyClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Thejas\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Thejas\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Thejas\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Thejas\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
