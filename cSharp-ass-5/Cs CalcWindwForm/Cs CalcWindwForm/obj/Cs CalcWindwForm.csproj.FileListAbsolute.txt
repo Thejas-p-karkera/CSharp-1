@@ -1,0 +1,8 @@
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\Cs_CalcWindwForm.Form1.resources
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\Cs_CalcWindwForm.Properties.Resources.resources
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\Cs CalcWindwForm.csproj.GenerateResource.Cache
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\bin\Debug\Cs CalcWindwForm.exe
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\bin\Debug\Cs CalcWindwForm.pdb
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\Cs CalcWindwForm.exe
+C:\Thejas\Cs CalcWindwForm\Cs CalcWindwForm\obj\Debug\Cs CalcWindwForm.pdb
