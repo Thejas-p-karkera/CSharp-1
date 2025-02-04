@@ -80,33 +80,35 @@ namespace Cs_CalcWindwForm
         {
             option = "+";
             num1 = double.Parse(textBox1.Text);
-            textBox1.Clear();
+            textBox1.Text = textBox1.Text + " + ";
         }
 
         private void btnMinus_Click(object sender, EventArgs e)
         {
             option = "-";
             num1 = double.Parse(textBox1.Text);
-            textBox1.Clear();
+            textBox1.Text = textBox1.Text + " - ";
         }
 
         private void btnMult_Click(object sender, EventArgs e)
         {
             option = "*";
             num1 = double.Parse(textBox1.Text);
-            textBox1.Clear();
+            textBox1.Text = textBox1.Text + " x ";
         }
 
         private void btnDivide_Click(object sender, EventArgs e)
         {
             option = "/";
             num1 = double.Parse(textBox1.Text);
-            textBox1.Clear();
+            textBox1.Text = textBox1.Text + " / ";
         }
 
         private void btnAns_Click(object sender, EventArgs e)
         {
-            num2 = int.Parse(textBox1.Text);
+            //num2 = double.Parse(textBox1.Text);
+
+            num2 = double.Parse(textBox1.Text.Substring(textBox1.Text.LastIndexOf(option)+ 1 ));
 
             if (option == "+")
             {
